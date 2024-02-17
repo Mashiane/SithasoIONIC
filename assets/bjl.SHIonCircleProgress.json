@@ -1,0 +1,140 @@
+{
+    "parent": "Main",
+    "borderColor": {
+        "ValueType": 6,
+        "Value": "0xFF000000"
+    },
+    "shadow": {
+        "offsetX": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "offsetY": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "csType": "Dbasic.Designer.ShadowGrid",
+        "stype": 0,
+        "type": "",
+        "radius": {
+            "ValueType": 7,
+            "Value": 10
+        },
+        "shadowColor": {
+            "ValueType": 6,
+            "Value": "0xFF000000"
+        }
+    },
+    "shortType": "SHIonCircleProgress",
+    "vanchor": 0,
+    "type": ".CustomViewWrapper",
+    "enabled": true,
+    "variant0": {
+        "top": 10,
+        "left": 10,
+        "hanchor": 0,
+        "width": 100,
+        "vanchor": 0,
+        "height": 100
+    },
+    "cornerRadius": {
+        "ValueType": 7,
+        "Value": 3
+    },
+    "top": 88,
+    "borderWidth": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "alpha": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "hanchor": 0,
+    "eventName": "SHIonCircleProgress1",
+    "tag": "",
+    "text": "",
+    "wrapText": false,
+    "height": 100,
+    "drawable": {
+        "color": {
+            "ValueType": 6,
+            "Value": "0xFFF0F8FF"
+        },
+        "csType": "Dbasic.Designer.Drawable.ColorDrawable",
+        "colorKey": "-fx-background-color",
+        "type": "ColorDrawable"
+    },
+    "visible": true,
+    "csType": "Dbasic.Designer.MetaCustomView",
+    "fontAwesome": "",
+    "toolTip": "",
+    "textColor": {
+        "ValueType": 6,
+        "Value": "0xFFF0F8FF"
+    },
+    "javaType": ".CustomViewWrapper",
+    "customType": "b4j.example.shioncircleprogress",
+    "customProperties": {
+        "Easing": "easeOut",
+        "ParentID": "",
+        "RawPosition": "t=?; b=?; r=?; l=?",
+        "Fill": "",
+        "RawClasses": "",
+        "shortType": "SHIonCircleProgress",
+        "RawStyles": "",
+        "type": "",
+        "FromColor": "#eee",
+        "TextPadding": "0",
+        "ToColor": "#000",
+        "StrokeWidth": "4",
+        "FromWidth": "1",
+        "Visible": true,
+        "TrailWidth": "1",
+        "Height": "200px",
+        "TextColor": "",
+        "ToWidth": "4",
+        "Width": "200px",
+        "PaddingAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "TrailColor": "#f4f4f4",
+        "csType": "Dbasic.Designer.MetaCustomView+CustomDataGrid",
+        "Color": "#3a3a3a",
+        "RawAttributes": "",
+        "Duration": 1200,
+        "AlignToBottom": true,
+        "PositionStyle": "none",
+        "SvgStyleDisplay": "block",
+        "SvgStyleNull": false,
+        "SvgStyleWidth": "100%",
+        "AutoStyleContainer": true,
+        "TextLeft": "50%",
+        "TextMargin": "0",
+        "customType": "b4j.example.shioncircleprogress",
+        "MarginAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "FontSize": "3rem",
+        "ProgressType": "circle",
+        "TextPosition": "absolute",
+        "Value": "100",
+        "TextClassName": "progressbar__label",
+        "TextTop": "50%",
+        "Warnings": false
+    },
+    "contextMenu": "",
+    "left": 121,
+    "materialIcons": "",
+    "name": "SHIonCircleProgress1",
+    "width": 100,
+    "extraCss": "",
+    "alignment": "CENTER",
+    "font": {
+        "fontName": "DEFAULT",
+        "csType": "Dbasic.Designer.FontGrid",
+        "fontSize": {
+            "ValueType": 7,
+            "Value": 15
+        },
+        "bold": false,
+        "type": "B4IFontWrapper",
+        "italic": false
+    }
+}

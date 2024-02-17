@@ -1,0 +1,135 @@
+{
+    "parent": "Main",
+    "borderColor": {
+        "ValueType": 6,
+        "Value": "0xFF000000"
+    },
+    "shadow": {
+        "offsetX": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "offsetY": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "csType": "Dbasic.Designer.ShadowGrid",
+        "stype": 0,
+        "type": "",
+        "radius": {
+            "ValueType": 7,
+            "Value": 10
+        },
+        "shadowColor": {
+            "ValueType": 6,
+            "Value": "0xFF000000"
+        }
+    },
+    "shortType": "SHIonMenu",
+    "vanchor": 0,
+    "type": ".CustomViewWrapper",
+    "enabled": true,
+    "variant0": {
+        "top": 130,
+        "left": 230,
+        "hanchor": 0,
+        "width": 100,
+        "vanchor": 0,
+        "height": 30
+    },
+    "cornerRadius": {
+        "ValueType": 7,
+        "Value": 3
+    },
+    "top": 189,
+    "borderWidth": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "alpha": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "hanchor": 0,
+    "eventName": "SHIonMenu1",
+    "tag": "",
+    "text": "",
+    "wrapText": false,
+    "height": 100,
+    "drawable": {
+        "color": {
+            "ValueType": 6,
+            "Value": "0xFFF0F8FF"
+        },
+        "csType": "Dbasic.Designer.Drawable.ColorDrawable",
+        "colorKey": "-fx-background-color",
+        "type": "ColorDrawable"
+    },
+    "visible": true,
+    "csType": "Dbasic.Designer.MetaCustomView",
+    "fontAwesome": "",
+    "toolTip": "",
+    "textColor": {
+        "ValueType": 6,
+        "Value": "0xFFF0F8FF"
+    },
+    "javaType": ".CustomViewWrapper",
+    "customType": "b4j.example.shionmenu",
+    "customProperties": {
+        "ParentID": "",
+        "MinHeight": "",
+        "SwipeGesture": false,
+        "HasList": false,
+        "RawClasses": "",
+        "ContentIonPadding": false,
+        "shortType": "SHIonMenu",
+        "RawStyles": "",
+        "type": "",
+        "ToolbarColor": "none",
+        "Side": "start",
+        "HeaderNoBorder": false,
+        "MenuId": "",
+        "MaxWidth": "",
+        "FooterNoBorder": false,
+        "Visible": true,
+        "Height": "",
+        "TitleColor": "none",
+        "Disabled": false,
+        "Width": "",
+        "PaddingAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "Background": "",
+        "TypeOf": "none",
+        "csType": "Dbasic.Designer.MetaCustomView+CustomDataGrid",
+        "Mode": "ios",
+        "RawAttributes": "",
+        "Title": "Page",
+        "MinWidth": "",
+        "MaxEdgeStart": "50",
+        "HasHeader": false,
+        "customType": "b4j.example.shionmenu",
+        "HasContent": false,
+        "HasFooter": false,
+        "MarginAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "ContentId": "",
+        "MaxHeight": "",
+        "IsOpen": false
+    },
+    "contextMenu": "",
+    "left": 292,
+    "materialIcons": "",
+    "name": "SHIonMenu1",
+    "width": 100,
+    "extraCss": "",
+    "alignment": "CENTER",
+    "font": {
+        "fontName": "DEFAULT",
+        "csType": "Dbasic.Designer.FontGrid",
+        "fontSize": {
+            "ValueType": 7,
+            "Value": 15
+        },
+        "bold": false,
+        "type": "B4IFontWrapper",
+        "italic": false
+    }
+}

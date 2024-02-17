@@ -1,0 +1,126 @@
+{
+    "parent": "Main",
+    "borderColor": {
+        "ValueType": 6,
+        "Value": "0xFF000000"
+    },
+    "shadow": {
+        "offsetX": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "offsetY": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "csType": "Dbasic.Designer.ShadowGrid",
+        "stype": 0,
+        "type": "",
+        "radius": {
+            "ValueType": 7,
+            "Value": 10
+        },
+        "shadowColor": {
+            "ValueType": 6,
+            "Value": "0xFF000000"
+        }
+    },
+    "shortType": "SHIonDialer",
+    "vanchor": 0,
+    "type": ".CustomViewWrapper",
+    "enabled": true,
+    "variant0": {
+        "top": 290,
+        "left": 450,
+        "hanchor": 0,
+        "width": 100,
+        "vanchor": 0,
+        "height": 30
+    },
+    "cornerRadius": {
+        "ValueType": 7,
+        "Value": 3
+    },
+    "top": 387,
+    "borderWidth": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "alpha": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "hanchor": 0,
+    "eventName": "SHIonDialer1",
+    "tag": "",
+    "text": "",
+    "wrapText": false,
+    "height": 100,
+    "drawable": {
+        "color": {
+            "ValueType": 6,
+            "Value": "0xFFF0F8FF"
+        },
+        "csType": "Dbasic.Designer.Drawable.ColorDrawable",
+        "colorKey": "-fx-background-color",
+        "type": "ColorDrawable"
+    },
+    "visible": true,
+    "csType": "Dbasic.Designer.MetaCustomView",
+    "fontAwesome": "",
+    "toolTip": "",
+    "textColor": {
+        "ValueType": 6,
+        "Value": "0xFFF0F8FF"
+    },
+    "javaType": ".CustomViewWrapper",
+    "customType": "b4j.example.shiondialer",
+    "customProperties": {
+        "ParentID": "",
+        "ButtonSize": "default",
+        "ColumnType": "string",
+        "RawClasses": "",
+        "BorderColor": "gray",
+        "BorderRadius": "14px",
+        "shortType": "SHIonDialer",
+        "RawStyles": "",
+        "type": "",
+        "BorderWidth": "2px",
+        "IonNoPadding": false,
+        "IonPadding": false,
+        "MinValue": 0,
+        "Visible": true,
+        "IncrementColor": "success",
+        "PaddingAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "csType": "Dbasic.Designer.MetaCustomView+CustomDataGrid",
+        "BorderStyle": "solid",
+        "RawAttributes": "",
+        "MaxValue": 100,
+        "DecrementColor": "danger",
+        "IncrementIcon": "add",
+        "ColumnName": "",
+        "customType": "b4j.example.shiondialer",
+        "MarginAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "DecrementIcon": "remove",
+        "Value": 1,
+        "Slot": ""
+    },
+    "contextMenu": "",
+    "left": 319,
+    "materialIcons": "",
+    "name": "SHIonDialer1",
+    "width": 100,
+    "extraCss": "",
+    "alignment": "CENTER",
+    "font": {
+        "fontName": "DEFAULT",
+        "csType": "Dbasic.Designer.FontGrid",
+        "fontSize": {
+            "ValueType": 7,
+            "Value": 15
+        },
+        "bold": false,
+        "type": "B4IFontWrapper",
+        "italic": false
+    }
+}

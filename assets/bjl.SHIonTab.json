@@ -1,0 +1,152 @@
+{
+    "parent": "Main",
+    "borderColor": {
+        "ValueType": 6,
+        "Value": "0xFF000000"
+    },
+    "shadow": {
+        "offsetX": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "offsetY": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "csType": "Dbasic.Designer.ShadowGrid",
+        "stype": 0,
+        "type": "",
+        "radius": {
+            "ValueType": 7,
+            "Value": 10
+        },
+        "shadowColor": {
+            "ValueType": 6,
+            "Value": "0xFF000000"
+        }
+    },
+    "shortType": "SHIonTab",
+    "vanchor": 0,
+    "type": ".CustomViewWrapper",
+    "enabled": true,
+    "variant0": {
+        "top": 50,
+        "left": 450,
+        "hanchor": 0,
+        "width": 100,
+        "vanchor": 0,
+        "height": 30
+    },
+    "cornerRadius": {
+        "ValueType": 7,
+        "Value": 3
+    },
+    "top": 126,
+    "borderWidth": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "alpha": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "hanchor": 0,
+    "eventName": "SHIonTab1",
+    "tag": "",
+    "text": "",
+    "wrapText": false,
+    "height": 100,
+    "drawable": {
+        "color": {
+            "ValueType": 6,
+            "Value": "0xFFF0F8FF"
+        },
+        "csType": "Dbasic.Designer.Drawable.ColorDrawable",
+        "colorKey": "-fx-background-color",
+        "type": "ColorDrawable"
+    },
+    "visible": true,
+    "csType": "Dbasic.Designer.MetaCustomView",
+    "fontAwesome": "",
+    "toolTip": "",
+    "textColor": {
+        "ValueType": 6,
+        "Value": "0xFFF0F8FF"
+    },
+    "javaType": ".CustomViewWrapper",
+    "customType": "b4j.example.shiontab",
+    "customProperties": {
+        "ParentID": "",
+        "HasList": false,
+        "ContentIonPadding": false,
+        "ShowInTabbar": false,
+        "RawStyles": "",
+        "type": "",
+        "TabBarName": "",
+        "ContentText": "",
+        "HeaderNoBorder": false,
+        "HasRightButtons": true,
+        "DrawerListName": "",
+        "TitleColor": "none",
+        "TabTypeOf": "ion-tab",
+        "PaddingAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "MenuButtonAutoHide": true,
+        "csType": "Dbasic.Designer.MetaCustomView+CustomDataGrid",
+        "RouterName": "approuter",
+        "MenuButtonColor": "",
+        "BackButtonText": "Back",
+        "BackButtonHref": "\/",
+        "HasHeader": false,
+        "HasContent": true,
+        "HasMenuButton": false,
+        "HasLeftButtons": true,
+        "PageIconColor": "",
+        "CoverImage": "",
+        "IsActive": false,
+        "HeaderTranslucent": false,
+        "PageIcon": "logo-ionic",
+        "RawClasses": "",
+        "shortType": "SHIonTab",
+        "HasBackButton": false,
+        "ToolbarColor": "none",
+        "MenuId": "",
+        "ParentTabs": "",
+        "FooterNoBorder": false,
+        "Visible": true,
+        "ContentColor": "",
+        "Component": "",
+        "Path": "\/",
+        "TypeOf": "div",
+        "CenterContent": false,
+        "Mode": "ios",
+        "RawAttributes": "",
+        "Title": "Page",
+        "ContentFullscreen": false,
+        "customType": "b4j.example.shiontab",
+        "HasFooter": false,
+        "MarginAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "Tab": "",
+        "IsPage": true,
+        "ShowInDrawerList": false,
+        "FooterTranslucent": false,
+        "BackButtonIcon": ""
+    },
+    "contextMenu": "",
+    "left": 288,
+    "materialIcons": "",
+    "name": "SHIonTab1",
+    "width": 100,
+    "extraCss": "",
+    "alignment": "CENTER",
+    "font": {
+        "fontName": "DEFAULT",
+        "csType": "Dbasic.Designer.FontGrid",
+        "fontSize": {
+            "ValueType": 7,
+            "Value": 15
+        },
+        "bold": false,
+        "type": "B4IFontWrapper",
+        "italic": false
+    }
+}

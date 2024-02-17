@@ -1,0 +1,126 @@
+{
+    "parent": "Main",
+    "borderColor": {
+        "ValueType": 6,
+        "Value": "0xFF000000"
+    },
+    "shadow": {
+        "offsetX": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "offsetY": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "csType": "Dbasic.Designer.ShadowGrid",
+        "stype": 0,
+        "type": "",
+        "radius": {
+            "ValueType": 7,
+            "Value": 10
+        },
+        "shadowColor": {
+            "ValueType": 6,
+            "Value": "0xFF000000"
+        }
+    },
+    "shortType": "SHIonFabButton",
+    "vanchor": 0,
+    "type": ".CustomViewWrapper",
+    "enabled": true,
+    "variant0": {
+        "top": 330,
+        "left": 230,
+        "hanchor": 0,
+        "width": 100,
+        "vanchor": 0,
+        "height": 30
+    },
+    "cornerRadius": {
+        "ValueType": 7,
+        "Value": 3
+    },
+    "top": 390,
+    "borderWidth": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "alpha": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "hanchor": 0,
+    "eventName": "SHIonFabButton1",
+    "tag": "",
+    "text": "",
+    "wrapText": false,
+    "height": 100,
+    "drawable": {
+        "color": {
+            "ValueType": 6,
+            "Value": "0xFFF0F8FF"
+        },
+        "csType": "Dbasic.Designer.Drawable.ColorDrawable",
+        "colorKey": "-fx-background-color",
+        "type": "ColorDrawable"
+    },
+    "visible": true,
+    "csType": "Dbasic.Designer.MetaCustomView",
+    "fontAwesome": "",
+    "toolTip": "",
+    "textColor": {
+        "ValueType": 6,
+        "Value": "0xFFF0F8FF"
+    },
+    "javaType": ".CustomViewWrapper",
+    "customType": "b4j.example.shionfabbutton",
+    "customProperties": {
+        "ParentID": "",
+        "RouterDirection": "none",
+        "RouterAnimation": "",
+        "Size": "none",
+        "RawClasses": "",
+        "shortType": "SHIonFabButton",
+        "RawStyles": "",
+        "type": "",
+        "Activated": false,
+        "Target": "none",
+        "Visible": true,
+        "CloseIcon": "",
+        "Disabled": false,
+        "Download": false,
+        "PaddingAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "IconName": "",
+        "TypeOf": "button",
+        "csType": "Dbasic.Designer.MetaCustomView+CustomDataGrid",
+        "Color": "none",
+        "Mode": "ios",
+        "Href": "",
+        "RawAttributes": "",
+        "customType": "b4j.example.shionfabbutton",
+        "MarginAXYTBLR": "a=?; x=?; y=?; t=?; b=?; l=?; r=?",
+        "Rel": "",
+        "Slot": "",
+        "Show": false,
+        "Translucent": false
+    },
+    "contextMenu": "",
+    "left": 320,
+    "materialIcons": "",
+    "name": "SHIonFabButton1",
+    "width": 100,
+    "extraCss": "",
+    "alignment": "CENTER",
+    "font": {
+        "fontName": "DEFAULT",
+        "csType": "Dbasic.Designer.FontGrid",
+        "fontSize": {
+            "ValueType": 7,
+            "Value": 15
+        },
+        "bold": false,
+        "type": "B4IFontWrapper",
+        "italic": false
+    }
+}

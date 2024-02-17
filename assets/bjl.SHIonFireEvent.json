@@ -1,0 +1,172 @@
+{
+    "parent": "Main",
+    "borderColor": {
+        "ValueType": 6,
+        "Value": "0xFF000000"
+    },
+    "shadow": {
+        "offsetX": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "offsetY": {
+            "ValueType": 7,
+            "Value": 0
+        },
+        "csType": "Dbasic.Designer.ShadowGrid",
+        "stype": 0,
+        "type": "",
+        "radius": {
+            "ValueType": 7,
+            "Value": 10
+        },
+        "shadowColor": {
+            "ValueType": 6,
+            "Value": "0xFF000000"
+        }
+    },
+    "shortType": "SHIonFireEvent",
+    "vanchor": 0,
+    "type": ".CustomViewWrapper",
+    "enabled": true,
+    "variant0": {
+        "top": 370,
+        "left": 120,
+        "hanchor": 0,
+        "width": 100,
+        "vanchor": 0,
+        "height": 30
+    },
+    "cornerRadius": {
+        "ValueType": 7,
+        "Value": 3
+    },
+    "top": 398,
+    "borderWidth": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "alpha": {
+        "ValueType": 7,
+        "Value": 1
+    },
+    "hanchor": 0,
+    "eventName": "SHIonFireEvent1",
+    "tag": "",
+    "text": "",
+    "wrapText": false,
+    "height": 100,
+    "drawable": {
+        "color": {
+            "ValueType": 6,
+            "Value": "0xFFF0F8FF"
+        },
+        "csType": "Dbasic.Designer.Drawable.ColorDrawable",
+        "colorKey": "-fx-background-color",
+        "type": "ColorDrawable"
+    },
+    "visible": true,
+    "csType": "Dbasic.Designer.MetaCustomView",
+    "fontAwesome": "",
+    "toolTip": "",
+    "textColor": {
+        "ValueType": 6,
+        "Value": "0xFFF0F8FF"
+    },
+    "javaType": ".CustomViewWrapper",
+    "customType": "b4j.example.shionfireevent",
+    "customProperties": {
+        "ParentID": "",
+        "SchemaFromDataModel": false,
+        "ShowAppLoading": false,
+        "Port": "",
+        "Plural": "",
+        "RawClearValidation": "",
+        "type": "",
+        "RawRemoveClass": "",
+        "ShowAppAlert": false,
+        "TargetID": "",
+        "ToastHeader": "Toast",
+        "HideActionSheet": "none",
+        "RawClearValues": "",
+        "ConfirmText": "Ok",
+        "AlertMessage": "Be informed",
+        "ShowAppConfirm": false,
+        "ConfirmProcess": "delete",
+        "HasFocus": "none",
+        "csType": "Dbasic.Designer.MetaCustomView+CustomDataGrid",
+        "ConfirmMessage": "Confirm Message",
+        "ConfirmCancel": "Cancel",
+        "RawSetText": "",
+        "ShowActionSheet": "none",
+        "Singular": "",
+        "UpdateModalTag": "",
+        "TableName": "",
+        "ToastMessage": "This is a toast",
+        "HideAlert": "none",
+        "ConfirmTitle": "Confirm",
+        "RawValidate": "",
+        "RawAddAttribute": "",
+        "UpdateModalToolbarColor": "",
+        "HideModal": "none",
+        "RawSetValue": "",
+        "ShowAppToast": false,
+        "ShowLoading": "none",
+        "AlertProcess": "inform",
+        "PrimaryField": "",
+        "RawRead": "",
+        "ToastColor": "success",
+        "shortType": "SHIonFireEvent",
+        "RawRemoveAttribute": "",
+        "UpdateModalConfirmText": "",
+        "Url": "",
+        "AlertConfirmText": "Ok",
+        "ParentTabs": "mainpagetabs",
+        "RawCheckedFalse": "",
+        "DisplayField": "",
+        "RawAddStyle": "",
+        "RawWhere": "",
+        "AlertTitle": "Alert",
+        "LoadingMessage": "Loading...",
+        "RawSave": "",
+        "RawDelete": "",
+        "Password": "",
+        "RawRemoveStyle": "",
+        "DisplayValue": "",
+        "RawChangeColor": "",
+        "ShowPopOver": "none",
+        "ShowToast": "none",
+        "ShowAlert": "none",
+        "ShowPage": "none",
+        "EventName": "none",
+        "RawCheckedTrue": "",
+        "NextId": "",
+        "ShowModal": "none",
+        "customType": "b4j.example.shionfireevent",
+        "UpdateModalTitle": "",
+        "Username": "",
+        "RawAddClass": "",
+        "RawOrderBy": "",
+        "RawToggleClass": "",
+        "CrudActions": "none",
+        "HideAppLoading": false
+    },
+    "contextMenu": "",
+    "left": 171,
+    "materialIcons": "",
+    "name": "SHIonFireEvent1",
+    "width": 100,
+    "extraCss": "",
+    "alignment": "CENTER",
+    "font": {
+        "fontName": "DEFAULT",
+        "csType": "Dbasic.Designer.FontGrid",
+        "fontSize": {
+            "ValueType": 7,
+            "Value": 15
+        },
+        "bold": false,
+        "type": "B4IFontWrapper",
+        "italic": false
+    }
+}
